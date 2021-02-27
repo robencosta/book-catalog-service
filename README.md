@@ -1,2 +1,1 @@
-# book-catalog-sevice
-Book Catalog Service (Microsservice)
+# Book Catalog Service (Microsservice)
