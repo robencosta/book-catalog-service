@@ -4,7 +4,6 @@ RESTfull microsservice to manager a book catalog.
 
 ## Stack
 
-* Java FX
 * Spring Boot
 * Redis
 * PostgreSQL
